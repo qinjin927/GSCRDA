@@ -7,15 +7,7 @@
 Adaptation (GSCRDA)** for unsupervised cross-condition bearing fault
 diagnosis.
 
-![GSCRDA Framework](GSCRDA/Fig/GSCRDA Framework.png)
-
-- **CCSEFFG**: Criticality-Controlled Soft Event Fission-Fusion Graph for
-  extracting fault representations from vibration signals.
-- **RL-MA-DVSCA**: Reinforcement Learning-Driven Multi-Anchor Dual-View
-  Spectral Cluster Anchoring for target pseudo-label generation and
-  reliability estimation.
-- **RGDA**: Reliability-Guided Domain Adaptation for reliability-weighted
-  pseudo-label learning and dual domain alignment.
+![GSCRDA Framework](GSCRDA/Fig/GSCRDA%20Framework.png)
 
 ## Environment
 

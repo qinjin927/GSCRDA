@@ -7,7 +7,7 @@
 Adaptation (GSCRDA)** for unsupervised cross-condition bearing fault
 diagnosis.
 
-![GSCRDA Framework](GSCRDA/Fig/GSCRDA.png)
+![GSCRDA Framework](GSCRDA/Fig/GSCRDA Framework.png)
 
 - **CCSEFFG**: Criticality-Controlled Soft Event Fission-Fusion Graph for
   extracting fault representations from vibration signals.
